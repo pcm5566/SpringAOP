@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MavenSpringDemo02/lib/spring-core-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenSpringDemo02/lib/spring-aop-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenSpringDemo02/lib/spring-context-support-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenSpringDemo02/lib/spring-context-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenSpringDemo02/lib/spring-beans-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenSpringDemo02/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://D:/repository/aspectjrt-1.9.1.jar!/" />
+      <root url="jar://D:/repository/aspectjweaver-1.9.1.jar!/" />
+      <root url="jar://D:/repository/shiro-aspectj-1.4.0.jar!/" />
+      <root url="jar://D:/repository/commons-logging-1.2.jar!/" />
+      <root url="jar://D:/repository/spring-expression-5.0.8.RELEASE.jar!/" />
+      <root url="jar://D:/repository/org.springframework.beans-3.2.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://mvnrepository.com/artifact/org.aspectj/aspectjrt/1.9.1" />
+      <root url="http://mvnrepository.com/artifact/org.aspectj/aspectjweaver/1.9.1" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
